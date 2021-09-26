@@ -1,0 +1,14 @@
+#iconos  i {
+    font-size: 40px;
+    padding: 0 8px;
+    color:black;
+}
+
+footer {
+    background: black;
+    min-height: 100px;;
+}
+footer p{
+    color:#f3f3f3;
+    text-align:center;
+}
